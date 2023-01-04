@@ -21,4 +21,5 @@ Today I Learn
 
 ## # 0104
 - 파이썬 함수
-- 함수, 내장함수, map(), len(s), sum(iterable, start = 0), max(iterable), min(iterable) 등을 배움
+- 함수(Function)
+  - 내장함수, map(), len(s), sum(iterable, start = 0), max(iterable), min(iterable) 등을 배움
