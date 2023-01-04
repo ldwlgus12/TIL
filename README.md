@@ -18,3 +18,7 @@ Today I Learn
 ## # 0103
 - 파이썬 기초2
 - 자료형 변환, 제어문, 조건문, 반복문, range 등을 배움
+
+## # 0104
+- 파이썬 함수
+- 함수, 내장함수, map(), len(s), sum(iterable, start = 0), max(iterable), min(iterable) 등을 배움
