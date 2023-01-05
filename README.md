@@ -23,3 +23,6 @@ Today I Learn
 - 파이썬 함수
 - 함수(Function)
   - 내장함수, map(), len(s), sum(iterable, start = 0), max(iterable), min(iterable) 등을 배움
+
+## # 0105
+- 딕셔너리, 모듈, 예외/오류 상황 처리
