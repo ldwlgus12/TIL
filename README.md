@@ -34,3 +34,8 @@ Today I Learn
 ## # 0109
 - 데이터 타입과 메서드
 - 튜플, 세트, 문자열, 딕셔너리 
+
+## # 0110
+- 사용자 정의 함수(def)
+- 함수의 결과값(return), 함수의 입력(parameter, argument), 함수의 범위(scope)
+
