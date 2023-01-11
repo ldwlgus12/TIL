@@ -39,3 +39,6 @@ Today I Learn
 - 사용자 정의 함수(def)
 - 함수의 결과값(return), 함수의 입력(parameter, argument), 함수의 범위(scope)
 
+## # 0111
+- 사용자 정의 클래스
+- 객체 지향 프로그래밍, 클래스와 인스턴스(class, instance), 속성과 메소드
