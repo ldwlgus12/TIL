@@ -64,3 +64,7 @@ Today I Learn
 - 문자열(String)
 - 문자열 메서드, 아스키(ASCII) 코드
 
+## # 0119
+- 파이썬 딕셔너리(Dictionary)
+- 딕셔너리 기본 문법, 메서드
+
