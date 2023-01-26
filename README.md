@@ -71,3 +71,7 @@ Today I Learn
 ## # 0120
 - 설날 연휴 전 파이썬 Swea 모의고사 실시
 
+## # 0126
+- 스택, 큐(Stack, Queue)
+
+
