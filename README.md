@@ -85,4 +85,8 @@ Today I Learn
 - 이차원 리스트_2
 - 순회, 전치, 회전
 
+## # 0201
+- 완전탐색 I
+- 무식하게 풀기(Brute-force, 브루토포스), 델타 탐색(Delta Search)
+
 
