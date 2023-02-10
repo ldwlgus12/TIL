@@ -116,4 +116,11 @@ Today I Learn
 - MySQL 소개 및 설치
 - 백준 단계별 문제 1~4단계 완료
 
+## # 0209
+- SQL
+- Querying data, Sorting data (SELECT FROM, ORDER BY)
+
+
+
+
 
