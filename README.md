@@ -119,6 +119,12 @@ Today I Learn
 ## # 0209
 - SQL
 - Querying data, Sorting data (SELECT FROM, ORDER BY)
+- 백준 단계별 문제 6단계 완료
+
+## # 0210
+- Swea 알고리즘 관련 문제 모의고사 실시
+- 느낀점: 확실히 본인은 DFS, BFS에 약하다는 것을 느낌. 이것들 위주로 공부하고 문제풀이를 해나갈 예정
+
 
 
 
