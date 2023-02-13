@@ -128,6 +128,11 @@ Today I Learn
 ## # 0211~0212
 - 백준 문제풀이
 
+## # 0213
+- SQL - Single Table Queries 2
+- Filtering data (DISTINCT, WHERE, LIMIT, BETWEEN, IN, LIKE, ...), Grouping data (GROUP BY, HAVING, ...)
+
+
 
 
 
