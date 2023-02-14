@@ -132,6 +132,9 @@ Today I Learn
 - SQL - Single Table Queries 2
 - Filtering data (DISTINCT, WHERE, LIMIT, BETWEEN, IN, LIKE, ...), Grouping data (GROUP BY, HAVING, ...)
 
+## # 0214
+- SQL - Managing Tables, Modifying Data
+- CREATE, DROP, ALTER TABLE / INSERT INTO, UPDATE, DELETE
 
 
 
