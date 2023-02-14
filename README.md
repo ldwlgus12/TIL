@@ -134,7 +134,7 @@ Today I Learn
 
 ## # 0214
 - SQL - Managing Tables, Modifying Data
-- CREATE, DROP, ALTER TABLE / INSERT INTO, UPDATE, DELETE
+- CREATE, DROP, ALTER TABLE / INSERT (INTO), UPDATE (SET), DELETE (FROM)
 
 
 
