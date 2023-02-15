@@ -136,6 +136,10 @@ Today I Learn
 - SQL - Managing Tables, Modifying Data
 - CREATE, DROP, ALTER TABLE / INSERT (INTO), UPDATE (SET), DELETE (FROM)
 
+## # 0215
+- SQL - Multi Table Queries
+- JOIN ( INNER JOIN, LEFT JOIN, RIGHT JOIN, UNION, ...)
+
 
 
 
