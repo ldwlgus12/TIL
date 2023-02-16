@@ -140,6 +140,10 @@ Today I Learn
 - SQL - Multi Table Queries
 - JOIN ( INNER JOIN, LEFT JOIN, RIGHT JOIN, UNION, ...)
 
+## # 0216
+- SQL - Nested Queries
+- Subquery, EXISTS, CASE
+
 
 
 
