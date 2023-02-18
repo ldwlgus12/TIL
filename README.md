@@ -144,6 +144,10 @@ Today I Learn
 - SQL - Nested Queries
 - Subquery, EXISTS, CASE
 
+## # 0217
+- 자격증 취업특강
+- 프로그래머스 SQL 문제풀이
+
 
 
 
