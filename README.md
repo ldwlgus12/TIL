@@ -148,7 +148,10 @@ Today I Learn
 - 자격증 취업특강
 - 프로그래머스 SQL 문제풀이
 
+## # 0218~0219
+- 스터디 문제풀이(프로그래머스), 백준 문제풀이
 
-
-
+## # 0220
+- SQL - Advanced 01
+- Transactions, Triggers
 
