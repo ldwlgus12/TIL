@@ -155,3 +155,8 @@ Today I Learn
 - SQL - Advanced 01
 - Transactions, Triggers
 
+## # 0221
+- SQL - Advanced 02
+- Normalization (정규화), Data Modeling (ER (Entity-Relationship) Diagram)
+
+
