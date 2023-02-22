@@ -160,3 +160,10 @@ Today I Learn
 - Normalization (정규화), Data Modeling (ER (Entity-Relationship) Diagram)
 
 
+------------------------------------------------------------------
+
+## # 0222
+- 웹 시작
+- Web - Fundamentals od HTML and CSS
+
+
