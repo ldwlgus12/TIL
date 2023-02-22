@@ -164,6 +164,6 @@ Today I Learn
 
 ## # 0222
 - 웹 시작
-- Web - Fundamentals od HTML and CSS
+- Web - Fundamentals of HTML and CSS
 
 
