@@ -170,5 +170,17 @@ Today I Learn
 - Web - The box model
 - CSS Box Model, Block & Inline (Normal flow)
 
+## # 0224
+- 커리어 특강
+- Web project 진행 (협업 프로젝트)
+- 스터디 문제풀이(코드업)
+
+## # 0225~0226
+- 스터디 문제풀이(프로그래머스, swea)
+
+## # 0227
+- Web - Positioning for CSS layout
+- CSS Position
+
 
 
