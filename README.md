@@ -172,7 +172,7 @@ Today I Learn
 
 ## # 0224
 - 커리어 특강
-- Web project 진행
+- Web project 진행 (협업 프로젝트)
 - 스터디 문제풀이(코드업)
 
 ## # 0225~0226
