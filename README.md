@@ -188,6 +188,13 @@ Today I Learn
 - Web - Flexible box for CSS layout
   - CSS Flexbox, Flex Container, Flex Item, flex-wrap
   
+## # 0301
+- 백준 문제풀이
+
+## # 0302
+- Web - Semantic Web
+- Semantics in HTML, Semantics in CSS (OOCSS, BEM)
+
 
 
 
