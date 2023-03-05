@@ -149,7 +149,7 @@ Today I Learn
 - 프로그래머스 SQL 문제풀이
 
 ## # 0218~0219
-- 스터디 문제풀이(프로그래머스), 백준 문제풀이
+- 스터디 문제풀이 (프로그래머스), 백준 문제풀이
 
 ## # 0220
 - SQL - Advanced 01
@@ -173,10 +173,10 @@ Today I Learn
 ## # 0224
 - 커리어 특강
 - Web project 진행 (협업 프로젝트)
-- 스터디 문제풀이(코드업)
+- 스터디 문제풀이 (코드업)
 
 ## # 0225~0226
-- 스터디 문제풀이(프로그래머스, swea)
+- 스터디 문제풀이 (프로그래머스, swea)
 
 ## # 0227
 - Web - Positioning for CSS layout
@@ -195,6 +195,11 @@ Today I Learn
 - Web - Semantic Web
 - Semantics in HTML, Semantics in CSS (OOCSS, BEM)
 
+## # 0303
+- Web project 진행 (협업 프로젝트)
+
+## # 0304~0305
+- 스터디 문제풀이 (코드트리, 프로그래머스)
 
 
 
