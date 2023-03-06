@@ -201,5 +201,10 @@ Today I Learn
 ## # 0304~0305
 - 스터디 문제풀이 (코드트리, 프로그래머스)
 
+## # 0306
+- Web - Fundamentals of Bootstrap
+- Bootstrap 클래스명 맛보기, CDN
+
+
 
 
