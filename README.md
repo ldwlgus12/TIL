@@ -205,6 +205,9 @@ Today I Learn
 - Web - Fundamentals of Bootstrap
 - Bootstrap 클래스명 맛보기, CDN
 
+## # 0307
+- Web - Fundamentals of Grid system
+- 중첩, Offset, Gutters
 
 
 
