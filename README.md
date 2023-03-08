@@ -209,5 +209,8 @@ Today I Learn
 - Web - Fundamentals of Grid system
 - 중첩, Offset, Gutters
 
+## # 0308
+- Grid system for responsive web design
+- Breakpoints, Grid cards, UX & UI
 
 
