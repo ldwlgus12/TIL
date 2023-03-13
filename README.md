@@ -219,4 +219,11 @@ Today I Learn
 ## # 0312
 - 스터디 문제풀이 (코드트리, 프로그래머스)
 
+------------------------------------------------------------------
+
+## # 0313
+- JavaScript 시작
+- JS - History of JavaScript
+- Web - JavaScript and DOM
+
 
