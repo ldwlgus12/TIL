@@ -226,4 +226,8 @@ Today I Learn
 - JS - History of JavaScript
 - Web - JavaScript and DOM
 
+## # 0314
+- JS - Basic syntax of JavaScript
+- 변수, 데이터 타입, 연산자, 조건문, 반복문 
+
 
