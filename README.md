@@ -231,7 +231,7 @@ Today I Learn
 - 변수, 데이터 타입, 연산자, 조건문, 반복문 
 
 ## # 0315
-- JS_Functions (선언식, 표현식, 매개변수, 화살표 함수)
-- JS_Object (객체, in 연산자, Method, `this`)
-- JS_Array (배열과 메서드, `forEach`, `map`, 콜백 함수)
+- JS - Functions (선언식, 표현식, 매개변수, 화살표 함수)
+- JS - Object (객체, in 연산자, Method, `this`)
+- JS - Array (배열과 메서드, `forEach`, `map`, 콜백 함수)
 
