@@ -237,7 +237,7 @@ Today I Learn
 
 ## # 0316
 - JS - Controlling event
-- lodash / 이벤트 (.addEventListener()), click, input, click & input, .preventDefault(), alert
+- lodash / 이벤트 (.addEventListener()), click, input, .preventDefault(), alert
 
 
 
