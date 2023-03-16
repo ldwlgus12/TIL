@@ -235,3 +235,9 @@ Today I Learn
 - JS - Object (객체, in 연산자, Method, `this`)
 - JS - Array (배열과 메서드, `forEach`, `map`, 콜백 함수)
 
+## # 0316
+- JS - Controlling event
+- lodash / 이벤트 (.addEventListener()), click, input, click & input, .preventDefault(), alert
+
+
+
