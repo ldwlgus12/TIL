@@ -239,5 +239,9 @@ Today I Learn
 - JS - Controlling event
 - lodash / 이벤트 (.addEventListener()), click, input, .preventDefault(), alert
 
+## # 0317
+- 인사이트 특강 (프론트엔드 현직자)
+- Web project 진행 (협업 프로젝트)
+
 
 
