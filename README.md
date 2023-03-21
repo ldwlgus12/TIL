@@ -252,5 +252,8 @@ Today I Learn
 - django 시작
 - Framework, django, 클라이언트와 서버
 
+### # 0321
+- Django - Django design pattern
+- 앱 생성 및 등록, MVC, MTV, 요청과 응답 (URLs -> View -> Template)
 
 
