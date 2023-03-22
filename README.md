@@ -256,4 +256,12 @@ Today I Learn
 - Django - Django design pattern
 - 앱 생성 및 등록, MVC, MTV, 요청과 응답 (URLs -> View -> Template)
 
+## # 0322
+- Django - Django Template
+- 템플릿 상속 (extends, block), 요청과 응답 with HTML form (`form`, `action 과 method`, `input`, `name`)
+
+
+
+
+
 
