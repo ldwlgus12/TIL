@@ -260,6 +260,9 @@ Today I Learn
 - Django - Django Template
 - 템플릿 상속 (extends, block), 요청과 응답 with HTML form (`form`, `action 과 method`, `input`, `name`)
 
+## # 0323
+- Django - django URLs
+- Variable Routing, App URL mapping (include()), Naming URL patterns, URL Namespace 
 
 
 
