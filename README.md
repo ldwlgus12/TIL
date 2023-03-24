@@ -264,6 +264,9 @@ Today I Learn
 - Django - django URLs
 - Variable Routing, App URL mapping (include()), Naming URL patterns, URL Namespace 
 
+## # 0324
+- Django - Django Model
+- Model, Migrations, migrate, Admin site 
 
 
 
