@@ -268,6 +268,7 @@ Today I Learn
 - Django - Django Model
 - Model, Migrations, migrate, Admin site 
 
+## # 0325~26
 
 
 
