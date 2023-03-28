@@ -268,7 +268,8 @@ Today I Learn
 - Django - Django Model
 - Model, Migrations, migrate, Admin site 
 
-## # 0325~26
+## # 0325~27
+- 스터디 문제풀이 (프로그래머스)
 
 
 
