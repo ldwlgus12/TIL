@@ -269,7 +269,7 @@ Today I Learn
 - Model, Migrations, migrate, Admin site 
 
 ### # 0325~27
-- 스터디 문제풀이 (프로그래머스), 백준 문제풀이
+- 스터디 문제풀이 (프로그래머스), 백준 문제풀이 (풀이개수 200개 달성!)
 
 
 
