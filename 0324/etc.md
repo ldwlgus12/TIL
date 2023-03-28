@@ -67,9 +67,9 @@ updated_at = models.DateTimeField(auto_now=True)
 
 - `변경사항 추가하고 python manage.py makemigrations 필수!!`
 
-- 22페이지 - 문자열이면 default를직접 넣는게 (1번) 나음
-- 하지만 시간 데이터는 2번이 나음
-- 2번넣고 또 나오는 문구에 아무것도 입력하지 않고 엔터를 누르면 django가 제안하는 기본값으로 설정됨.
+- 22페이지 - 문자열이면 default를직접 넣는게 (2번) 나음
+- 하지만 시간 데이터는 1번이 나음
+- 1번넣고 또 나오는 문구에 아무것도 입력하지 않고 엔터를 누르면 django가 제안하는 기본값으로 설정됨.
 
 ```
 dependencies = [
