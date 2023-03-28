@@ -271,5 +271,10 @@ Today I Learn
 ### # 0325~27
 - 스터디 문제풀이 (프로그래머스), 백준 문제풀이 (풀이개수 200개 달성!)
 
+### # 0328
+- Django - ORM
+- QuerySet API, ORM CREATE, ORM READ
+
+
 
 
