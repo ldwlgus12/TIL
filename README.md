@@ -256,19 +256,19 @@ Today I Learn
 - Django - Django design pattern
 - 앱 생성 및 등록, MVC, MTV, 요청과 응답 (URLs -> View -> Template)
 
-## # 0322
+### # 0322
 - Django - Django Template
 - 템플릿 상속 (extends, block), 요청과 응답 with HTML form (`form`, `action 과 method`, `input`, `name`)
 
-## # 0323
+### # 0323
 - Django - django URLs
 - Variable Routing, App URL mapping (include()), Naming URL patterns, URL Namespace 
 
-## # 0324
+### # 0324
 - Django - Django Model
 - Model, Migrations, migrate, Admin site 
 
-## # 0325~27
+### # 0325~27
 - 스터디 문제풀이 (프로그래머스), 백준 문제풀이
 
 
