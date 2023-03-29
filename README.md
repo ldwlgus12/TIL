@@ -275,6 +275,10 @@ Today I Learn
 - Django - ORM
 - QuerySet API, ORM CREATE, ORM READ
 
+### # 0329
+- Django - ORM (ORM UPDATE, ORM DELETE)
+- Django - ORM with view (READ, CREATE)
+
 
 
 
