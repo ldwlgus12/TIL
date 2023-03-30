@@ -279,6 +279,9 @@ Today I Learn
 - Django - ORM (ORM UPDATE, ORM DELETE)
 - Django - ORM with view (READ, CREATE)
 
+### # 0330
+- Django - ORM with view (DELETE, Update)
+- HTTP request methods ('GET' Method, 'POST' Method)
 
 
 
