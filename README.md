@@ -283,6 +283,9 @@ Today I Learn
 - Django - ORM with view (DELETE, UPDATE)
 - HTTP request methods ('GET' Method, 'POST' Method)
 
+### # 0331
+- Django project 진행 (협업 프로젝트)
+- 가계부 서비스 개발
 
 
 
