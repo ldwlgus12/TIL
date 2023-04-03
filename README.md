@@ -288,6 +288,12 @@ Today I Learn
 - 가계부 서비스 개발
 
 ### # 0401~02
+- 스터디 문제풀이 (프로그래머스), 백준 문제풀이
+
+### # 0403
+- Django-Form (Form class, Widgets, ModelForm)
+- Django - Handling HTTP requests (HTTP requests 처리에 따른 view 함수 구조 변화)
+
 
 
 
