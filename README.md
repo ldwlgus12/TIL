@@ -302,6 +302,10 @@ Today I Learn
 - Django - Authentication System 2
 - 회원 가입 (UserCreationForm()), 회원 탈퇴, 회원정보 수정 (UserChangeForm()), 비밀번호 변경 (PasswordChangeForm()), update_session_auth_hash, is_authenticated, login_required
 
+### # 0406~07
+- Django project 진행 (협업 프로젝트)
+- 개발자 정보 공유 서비스
+
 
 
 
