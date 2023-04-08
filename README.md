@@ -306,6 +306,8 @@ Today I Learn
 - Django project 진행 (협업 프로젝트)
 - 개발자 정보 공유 서비스
 
+### # 0408~09
+
 
 
 
