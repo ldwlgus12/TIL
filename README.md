@@ -309,6 +309,11 @@ Today I Learn
 ### # 0408~09
 - 스터디 문제풀이 (프로그래머스), 백준 문제풀이
 
+### # 0410
+- Django - Static files
+- STATIC_URL, Media Files, ImageField(), MEDIA_ROOT, MEDIA_URL
+
+
 
 
 
