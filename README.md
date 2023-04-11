@@ -313,6 +313,10 @@ Today I Learn
 - Django - Static files
 - STATIC_URL, Media Files, ImageField(), MEDIA_ROOT, MEDIA_URL
 
+### # 0411
+- Django - Many to one relationships 1
+- Comment & Article, comment_set.all(), Comment CRUD
+
 
 
 
