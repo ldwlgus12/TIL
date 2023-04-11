@@ -29,3 +29,4 @@ article_id = models.ForeignKey(Article, on_delete=models.CASCADE)로 만들면 �
 
     - 왜 그런지 찾아보니 처음에 settings.py -> app 등록에서 accounts를 등록 안하고 시작한 것;;
     - 얼탱x 그래서 등록하고 앱 지우고 다시 시작하려니 다른 오류가 발생해서 그냥 새로 시작.
+
