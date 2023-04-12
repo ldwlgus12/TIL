@@ -317,6 +317,10 @@ Today I Learn
 - Django - Many to one relationships 1
 - Comment & Article, comment_set.all(), Comment CRUD
 
+### # 0412
+- Django - Many to one  relationships 2
+- Article & User, Comment & User
+
 
 
 
