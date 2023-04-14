@@ -321,9 +321,11 @@ Today I Learn
 - Django - Many to one  relationships 2
 - Article & User, Comment & User
 
-### # 0413
+### # 0413~14
 - Django project 진행 (협업 프로젝트)
 - git을 활용하여 협업 진행
+- 영화 후기 공유 서비스
+
 
 
 
