@@ -327,6 +327,13 @@ Today I Learn
 - 영화 후기 공유 서비스
 
 ### # 0415~16
+- git 관련 내용 정리
+- 스터디 문제풀이 (프로그래머스), 백준 문제풀이
+
+### # 0417
+- Django - Many to many relationships 1
+- Django ManyToManyField, related_name, through, symmetrical, add(), remove(), .exists()
+
 
 
 
