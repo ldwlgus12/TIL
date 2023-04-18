@@ -334,9 +334,12 @@ Today I Learn
 - Django - Many to many relationships 1
 - Django ManyToManyField, related_name, through, symmetrical, add(), remove(), .exists()
 
-
-
-
+### # 0418
+- Django - Many to many relationships 2
+  - User(M) & User(N), Follow 구현
+- Django - Fixtures
+  - dumpdata, loaddata
+  
 
 
 
