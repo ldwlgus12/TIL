@@ -339,7 +339,11 @@ Today I Learn
   - User(M) & User(N), Follow 구현
 - Django - Fixtures
   - dumpdata, loaddata
-  
+
+### # 0419
+- Django with Ajax
+- `비동기` (Asynchronous), `Ajax`, `Axios`
+
 
 
 
