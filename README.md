@@ -343,6 +343,13 @@ Today I Learn
 ### # 0419
 - Django with Ajax
 - `비동기` (Asynchronous), `Ajax`, `Axios`
+- CLOUDTYPE을 활용한 개발 프로그램 배포
+
+### # 0419~0421
+- Django project 진행 (협업 프로젝트)
+- 밸런스 게임 웹 서비스 개발 & 배포
+
+
 
 
 
