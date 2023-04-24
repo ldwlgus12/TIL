@@ -353,6 +353,9 @@ Today I Learn
 - 프로젝트 관련 내용 정리
 - 스터디 문제풀이 (프로그래머스)
 
+### # 0424
+- Django - Django rest framework
+- REST API, Django REST framework (DRF), Serialization, (GET, POST, DELETE, PUT)
 
 
 
