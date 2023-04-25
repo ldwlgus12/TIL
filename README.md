@@ -354,8 +354,12 @@ Today I Learn
 - 스터디 문제풀이 (프로그래머스)
 
 ### # 0424
-- Django - Django rest framework
+- Django - Django rest framework 01
 - REST API, Django REST framework (DRF), Serialization, (GET, POST, DELETE, PUT)
+
+### # 0425
+- Django - Django rest framework 02
+- N : 1 Relation, read_only_fields, PrimaryKeyRelatedField(), Nested relationships, Swagger
 
 
 
