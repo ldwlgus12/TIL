@@ -361,6 +361,12 @@ Today I Learn
 - Django - Django rest framework 02
 - N : 1 Relation, read_only_fields, PrimaryKeyRelatedField(), Nested relationships, Swagger
 
+<br>
+
+### # 0426
+- 취업 특강 (이력서 작성 방법, 백엔드 개발 현직자 초청)
+- 세미 프로젝트 1 시작
+
 
 
 
