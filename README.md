@@ -375,6 +375,7 @@ Today I Learn
 - Semi Project_Day 2
 - 이미지 넣기 (static file) / 게시글 작성 시간 / 검색창 기능 / 오늘의 딜 (카운트다운) / 게시글 스크랩 기능
 
+### # 0429~0501
 
 
 
