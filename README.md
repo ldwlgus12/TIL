@@ -417,6 +417,16 @@ Today I Learn
 - Semi Project 발표 및 공유회
 - 프로젝트 정리 & 팀/개인별 회고
 
+### # 0509
+- `세미 프로젝트 2 시작`
+- 주제 정하기(배민상회), 타겟층 정하기, ERD 작성, git hub 저장소 생성
+
+### # 0510
+- Semi Project_Day 1
+- 프론트엔드
+  - navbar, 메인페이지 구현중, 상품 상세 페이지 구현
+- 백엔드
+  - 계정관련, model, form, view 수정
 
 
 
