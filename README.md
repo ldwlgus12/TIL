@@ -437,6 +437,10 @@ Today I Learn
   - create에서 카테고리 고르면 subcategory만 고를수있게 js로 구현. jquery 사용
   - 카카오페이 연결 완료
 
+### # 0512
+- Semi Project_Day 3
+- 프론트엔드
+- 백엔드
 
 
 
