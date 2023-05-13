@@ -440,6 +440,7 @@ Today I Learn
 ### # 0512
 - Semi Project_Day 3
 - 프론트엔드
+  - 로그인창 구현, 상품 생성 페이지 구현 중
 - 백엔드
 
 
