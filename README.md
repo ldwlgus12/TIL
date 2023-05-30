@@ -516,6 +516,7 @@ Today I Learn
 - 캘린더 구현 중
 
 ### # 0530
+- Final Project_Day 5
 - base(navbar, footer), create 페이지 템플릿 구현 마무리
 - 캘린더 구현 및 이미지 넣기
 - ai 챗봇 구현
