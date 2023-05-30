@@ -515,6 +515,11 @@ Today I Learn
 - base(navbar, footer), create 템플릿 구현
 - 캘린더 구현 중
 
+### # 0530
+- base(navbar, footer), create 페이지 템플릿 구현 마무리
+- 캘린더 구현 및 이미지 넣기
+- ai 챗봇 구현
+- 네이버, 구글로 이미지 검색하는 기능 구현
 
 
 
