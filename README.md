@@ -566,6 +566,12 @@ Today I Learn
 - index 화면 수정 (그래프)
 - 웹 이미지 선택 시 db 저장 시도 중
 
+### # 0609
+- 웹 이미지 선택 시 db 저장 성공
+- navbar, footer 수정
+- index -> offcanvas 추가
+- 프로필 수정 페이지 구현 중
+- update 페이지 수정
 
 
 
