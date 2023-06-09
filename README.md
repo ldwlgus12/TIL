@@ -571,7 +571,7 @@ Today I Learn
 - navbar, footer 수정
 - index -> offcanvas 추가
 - 프로필 수정 페이지 구현 중
-- update 페이지 수정
+- create, update 페이지 수정
 
 
 
