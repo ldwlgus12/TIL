@@ -569,11 +569,14 @@ Today I Learn
 - 웹 이미지 선택 시 db 저장 시도 중
 
 ### # 0609
+- Final Project_Day 11
 - 웹 이미지 선택 시 db 저장 성공
 - navbar, footer 수정
 - index -> offcanvas 추가
 - 프로필 수정 페이지 구현 중
 - create, update 페이지 수정
+
+### # 0612
 
 
 
