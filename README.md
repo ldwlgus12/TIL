@@ -553,6 +553,7 @@ Today I Learn
 - search 페이지 구현
 
 ### # 0607
+- Final Project_Day 9
 - 맞팔로우시 상대방 캘린더 보여짐
 - 구글 로그인
 - 캘린더 → 기록이 있을경우 modal
@@ -562,6 +563,7 @@ Today I Learn
 - 캘린더 모달 클릭시 내용 수정
 
 ### # 0608
+- Final Project_Day 10
 - 맞팔로우시 상대방 캘린더 보여짐 (비동기처리)
 - index 화면 수정 (그래프)
 - 웹 이미지 선택 시 db 저장 시도 중
