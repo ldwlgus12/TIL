@@ -583,6 +583,7 @@ Today I Learn
 ### # 0614
 
 ### # 0615
+- Final Project_Day 15
 - 발표 PPT 제작
 - 발표 대본 제작
 - 사이트 배포
