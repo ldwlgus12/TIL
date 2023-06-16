@@ -577,10 +577,13 @@ Today I Learn
 - create, update 페이지 수정
 
 ### # 0612
+- Final Project_Day 12
 
 ### # 0613
+- Final Project_Day 13
 
 ### # 0614
+- Final Project_Day 15
 
 ### # 0615
 - Final Project_Day 15
