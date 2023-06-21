@@ -595,7 +595,10 @@ Today I Learn
 
 ### # 0614
 - Final Project_Day 14
-- 
+- 챗 봇 내용 수정
+- 웹 검색 시 enter 버튼 누르면 카카오 검색 가능하게 수정
+- index -> modal 내용 수정
+- index -> 월별 그래프 위치 조정
 
 ### # 0615
 - Final Project_Day 15
